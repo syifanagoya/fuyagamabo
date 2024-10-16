@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://fuyagamabo.pages.dev/sitemap.xml
